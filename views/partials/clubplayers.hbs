@@ -1,0 +1,25 @@
+<table class="ui table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Position</th>
+      
+    </tr>
+  </thead>
+  
+  <tbody>
+    {{#each clublist.players}}
+      <tr>
+        <td>
+          {{title}}
+        </td>
+        <td>
+          {{position}}
+        </td>
+         <td>
+         <a href="/clublist/{{../clublist.id}}/deletePlayer/{{id}}" class="ui icon button"> <i class="icon trash"></i> Delete Player </a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>

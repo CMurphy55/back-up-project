@@ -1,0 +1,130 @@
+{
+	"teamRankingsCollection": [{
+		"title": "Premier League Table Standings 2018-2019",
+		"clubs": [{
+				"key": "mancity",
+				"name": "Manchester City",
+				"code": "MCI",
+				"rank": "1"
+			},
+			{
+				"key": "liverpool",
+				"name": "Liverpool",
+				"code": "LIV",
+				"rank": "2"
+			},
+			{
+				"key": "tottenham",
+				"name": "Tottenham Hotspur",
+				"code": "TOT",
+				"rank": "3"
+			},
+			{
+				"key": "arsenal",
+				"name": "Arsenal",
+				"code": "ARS",
+				"rank": "4"
+			},
+			{
+				"key": "manutd",
+				"name": "Manchester United",
+				"code": "MUN",
+				"rank": "5"
+			},
+			{
+				"key": "chelsea",
+				"name": "Chelsea",
+				"code": "CHE",
+				"rank": "6"
+
+			},
+			{
+				"key": "wolves",
+				"name": "Wolves",
+				"code": "WOL",
+				"rank": "7"
+			},
+			{
+				"key": "watford",
+				"name": "Watford",
+				"code": "WAT",
+				"rank": "8"
+			},
+			{
+				"key": "westham",
+				"name": "West Ham United",
+				"code": "WHU",
+				"rank": "9"
+			},
+			{
+				"key": "leicester",
+				"name": "Leicester City",
+				"code": "LEI",
+				"rank": "10"
+			},
+			{
+				"key": "everton",
+				"name": "Everton",
+				"code": "EVE",
+				"rank": "11"
+			},
+			{
+				"key": "bournemouth",
+				"name": "Bournemouth",
+				"code": "BOU",
+				"rank": "12"
+			},
+			{
+				"key": "newcastle",
+				"name": "Newcastle United",
+				"code": "NEW",
+				"rank": "13"
+			},
+			{
+				"key": "crystalpalace",
+				"name": "Crystal Palace",
+				"code": "CRY",
+				"rank": "14"
+			},
+
+			{
+				"key": "brightonhovealbion",
+				"name": "Brighton & Hove Albion",
+				"code": "BRI",
+				"rank": "15"
+			},
+			{
+				"key": "southampton",
+				"name": "Southampton",
+				"code": "SOU",
+				"rank": "16"
+
+			},
+			{
+				"key": "burnley",
+				"name": "Burnley",
+				"code": "BUR",
+				"rank": "17"
+			},
+			{
+				"key": "cardiff",
+				"name": "Cardiff",
+				"code": "CAR",
+				"rank": "18"
+			},
+			{
+				"key": "fulham",
+				"name": "Fulham",
+				"code": "FUL",
+				"rank": "19"
+			},
+			{
+				"key": "huddersfieldtown",
+				"name": "Huddersfield Town",
+				"code": "HUD",
+				"rank": "20"
+			}
+		]
+
+	}]
+}

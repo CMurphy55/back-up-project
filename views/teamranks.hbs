@@ -1,0 +1,33 @@
+{{> menu id="rankings"}}
+
+{{#each TeamRankings}}
+  <section class="ui segment">
+    <h2 class="ui header">
+      {{title}}
+    </h2>
+    <table class="ui table">
+      <thead>
+        <tr>
+          <th>Team Name</th>
+          <th>Club Abbreviation</th>
+          <th>Position</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each clubs}}
+          <tr>
+            <td>
+              {{name}}
+            </td>
+            <td>
+              {{code}}
+            </td>
+            <td>
+              {{rank}}
+            </td>
+          </tr>
+        {{/each}}
+      </tbody>
+    </table>
+  </section>
+{{/each}}

@@ -1,0 +1,142 @@
+{
+  "footballTeamCollection": [
+    {
+      "name": "Arsenal",
+      "id": "1",
+      "image": "https://i.imgur.com/273dNJ8.jpg",
+      "players": [
+        {
+          "id": "1",
+          "title": "Lacazette",
+          "position": "Forward",
+          "age": "27"
+        },
+        {
+          "id": "2",
+          "title": "Ozil",
+          "position": "Attacking-Midfielder"
+        },
+        {
+          "id": "3",
+          "title": "Ramsey",
+          "position": "Attacking-Midfielder"
+        },
+        {
+          "id": "4",
+          "title": "Mkhitaryan",
+          "position": "Attacking-Midfielder"
+        },
+        {
+          "id": "5",
+          "title": "Mohammed Elneny",
+          "position": "Central-Midfielder"
+        },
+        {
+          "id": "6",
+          "title": "Xhaka",
+          "position": "Defensive-Midfielder"
+        },
+        {
+          "id": "7",
+          "title": "Mustafi",
+          "position": "Centre-Back"
+        },
+        {
+          "id": "8",
+          "title": "Sokratis Papastathopoulos",
+          "position": "Centre-Back"
+        },
+        {
+          "id": "9",
+          "title": "Sead Kolasinac",
+          "position": "Left-Back"
+        },
+        {
+          "id": "10",
+          "title": "Hector Bellerin",
+          "position": "Right-Back"
+        }
+      ]
+    },
+    {
+      "name": "Manchester City",
+      "id": "2",
+      "image": "https://i.imgur.com/5Fb8WyZ.jpg",
+      "players": [
+        {
+          "id": "1",
+          "title": "Aguero",
+          "position": "Forward"
+        },
+        {
+          "id": "2",
+          "title": "Silva",
+          "position": "Midfielder"
+        },
+        {
+          "id": "3",
+          "title": "Kevin De Bruyne",
+          "position": "Attacking-Midfielder"
+        },
+        {
+          "id": "4",
+          "title": "Ilkay Gundogan",
+          "position": "Midfielder"
+        },
+        {
+          "id": "5",
+          "title": "Raheem Sterling",
+          "position": "Right-Midfielder"
+        },
+        {
+          "id": "6",
+          "title": "Riyhad Mahrez",
+          "position": "Left-Midfielder"
+        },
+        {
+          "id": "7",
+          "title": "Benjamin Mendy",
+          "position": "Left-Back"
+        },
+        {
+          "id": "8",
+          "title": "Kyle Walker",
+          "position": "Right-Back"
+        },
+        {
+          "id": "9",
+          "title": "Vincent Kompany",
+          "position": "Centre-Back"
+        },
+        {
+          "id": "10",
+          "title": "Aymeric Laporte",
+          "position": "Centre-Back"
+        }
+      ]
+    },
+    {
+      "name": "Liverpool",
+      "id": "3",
+      "image": "https://i.imgur.com/lQOWa2t.jpg",
+      "players": [
+        {
+          "id": "7",
+          "title": "Salah",
+          "position": "Forward"
+        },
+        {
+          "id": "8",
+          "title": "Mane",
+          "position": "Forward"
+        },
+        {
+          "id": "9",
+          "title": "Milner",
+          "position": "Midfielder"
+        }
+      ]
+    }
+  ],
+  "playlistCollection": []
+}

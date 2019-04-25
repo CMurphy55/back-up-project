@@ -1,0 +1,39 @@
+{{> menu id="dashboard"}}
+
+{{#each clublists}}
+  <section class="ui segment">
+ 
+    <h2 class="ui header">
+      {{title}}
+    </h2>
+    <p class = "custom"> Club Name: {{name}} </p>
+    <div>
+       <img class="img-thumbnail customimage" src="{{image}}" alt="Chania">
+    </div>
+     <a href="/clublist/{{id}}" class="ui icon button">
+      <i class="icon folder open"></i>
+    </a>
+    <a href="/dashboard/deleteClub/{{id}}" class="ui icon button"> <i class="icon trash"></i>
+</a>
+    
+
+  {{> addclub}}
+</section>
+
+     <style>
+.custom {
+        padding: 5px;
+    font-size: x-large;
+    border-bottom-right-radius: 10px;
+    border-bottom: 2px solid #cab4b4;
+    color: #2185d0;
+    font-family: inherit;
+       }
+       .customimage {
+       max-width:50% !important;
+       }
+</style>
+    
+  </section>
+{{/each}}
+
